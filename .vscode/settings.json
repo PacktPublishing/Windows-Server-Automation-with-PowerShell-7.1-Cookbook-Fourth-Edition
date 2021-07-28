@@ -1,0 +1,7 @@
+{
+    "powershell.codeFormatting.addWhitespaceAroundPipe": true,
+    "cSpell.words": [
+        "CMDS",
+        "SBMP"
+    ]
+}
