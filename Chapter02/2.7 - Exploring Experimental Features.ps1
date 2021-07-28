@@ -1,6 +1,6 @@
 # 2.7 EXploring Experimental Features
-
-# Run on SRV1
+#
+# Run on SRV1 after installing PowerShell 7
 
 # 1. Discovering experimental features
 Get-ExperimentalFeature -Name * |
