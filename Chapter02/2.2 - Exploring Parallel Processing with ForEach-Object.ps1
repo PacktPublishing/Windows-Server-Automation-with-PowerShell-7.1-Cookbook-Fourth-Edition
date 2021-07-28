@@ -1,7 +1,6 @@
 # 2.2 Exploring Parallel processing
-
+#
 # Run in PS 7 on SRV1
-
 
 # 1. Simulating a long running script block
 $SB1 = {
