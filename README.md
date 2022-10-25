@@ -15,3 +15,7 @@ This latest edition equips you with over 100 recipes you’ll need in day-to-day
 6. Set up virtual machines, websites, and shared files on Azure
 7. Report system performance using built-in cmdlets and WMI to obtain single measurements
 8. Apply the right tools and modules to troubleshoot and debug Windows Server
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800568457">https://packt.link/free-ebook/9781800568457 </a> </p>
